@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../img/backgroundbody.jpg);
+  background-size: cover;
+}
+
+/* Navbar */
+.container .navbar-brand {
+  font-family: "Dancing Script", cursive;
+}
+
+.navbar {
+  background: rgb(238, 238, 238);
+  background: linear-gradient(0deg, rgba(238, 238, 238, 0) 0%, rgba(0, 0, 0, 0.6811099439775911) 100%);
+  font-size: 1.5rem;
+}
